@@ -1,2 +1,0 @@
-# codepath-prework
-Codepath Prework
